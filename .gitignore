@@ -1,0 +1,5 @@
+Taxi-Project/env
+Taxi-Project/DeepQLearning/model/*
+Taxi-Project/QLearning/q_tables/*
+Taxi-Project/DeepQLearning/__pycache__
+Taxi-Project/QLearning/__pycache__
